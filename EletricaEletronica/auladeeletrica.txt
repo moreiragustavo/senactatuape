@@ -1,0 +1,17 @@
+25/04/22
+
+medindo a tensão da tomada da bancada do laboratório do senac utilizando um voltímetro e um cabo de força.
+Tensão: 120,5
+
+Testando a Continuidade do Cabo de Força Usando o Voltímetro
+( Coloquei no Diodo, testei em todas as pontas e zerou todas)
+
+ Testando a fonte com o cabo de força ligada na tomada.
+ 
+ testando a corrente contínua da fonte
+ 3,3v( LARANJA)
+ 5v ( VERMELHO )
+ 12V ( AMARELO )
+ ( o fio laranja deu  3,29, más podemos arredondar para 3,3 e o resto dos fios deu tudo certinho)
+ 
+Usei o testador de fonte e deu tudo certo  
