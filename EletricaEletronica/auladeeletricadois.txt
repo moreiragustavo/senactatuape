@@ -1,0 +1,34 @@
+tensão da tomada= 123,5
+
+corrente alternada
+fase + neutro= 123,2
+fase + terra = 123,3
+neutro + terra = 0,3
+
+resistencia do cabo= 0
+
+fonte de alimentação com testador da fonte  ( fonte SeaSonic  SS-300SFE )
+PG=00
+5V= 5.1
++12V1= 12.3
+-12V= 12.3
+
+Montando o circuito na protoboard
+colocando os fios na protoboard e transformando em 7v e 5v
+ 
+ corrente contínua da protoboard
+ 6v e 12v
+
+vendo se os leds estão com defeito usando o voltímetro
+
+resistor 324
+
+testando jacaré com multímetro= 0,9
+
+colocando os leds, resistor e coolers na protoboard
+
+amperagem do sistema
+corrente =0,28 
+tensão= 12,01
+
+ligando as 4 fontes ligadas na regua
