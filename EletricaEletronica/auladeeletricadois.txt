@@ -32,3 +32,7 @@ corrente =0,28
 tensão= 12,01
 
 ligando as 4 fontes ligadas na regua
+
+tensão eletrica do potenciometro  dando 121,3
+consumo de 40,9w
+corrente total 0,78a
