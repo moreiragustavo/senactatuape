@@ -1,0 +1,18 @@
+aula 18/05/22
+
+comandos
+
+sudo apt update = serve para atualizar a lista do apt
+sudo apt upgrade = serve para atualizar todos os software
+sudo apt full-upgrade = serve para atualizar todos os software, atualização completa
+sudo apt dist-upgrade = atualiza o sistema operacional Kernel(sistema operacional do linux)
+
+comandos de limpeza
+
+sudo apt autoremove = faz a remoção e software não mais necessário
+sudo apt autoclean = faz a limpeza do sistema
+sudo reboot = reinicia
+
+sudo apt install = instalar aplicativos
+
+sudo init 0
