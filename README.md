@@ -1,9 +1,9 @@
 ![](https://github.com/moreiragustavo/senactatuape/blob/main/gitihub.gif)
 
 ![GitHub](https://img.shields.io/github/license/moreiragustavo/git-e-github)
-# Tutorial GIT e GitHub
-Tutorial de Uso das ferramentas git e github
+# SENAC Tatuapé
+Repositório das Aulas do Técnico em Informática do SENAC Tatuapé
 ## Autor 
 Gustavo Cavalcante Moreira
-## Playlist
-[Iniciar tutorial](https://joseassis.com.br/cursos/gitegithub.html)
+## Links
+[Instagram](https://www.instagram.com/gustasz._/)
