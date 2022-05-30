@@ -1,4 +1,4 @@
-![](https://github.com/moreiragustavo/git-e-github/blob/main/gitHUB.jpg)
+![](https://github.com/moreiragustavo/senactatuape/blob/main/gitihub.gif)
 
 ![GitHub](https://img.shields.io/github/license/moreiragustavo/git-e-github)
 # Tutorial GIT e GitHub
